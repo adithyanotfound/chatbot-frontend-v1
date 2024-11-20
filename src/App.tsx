@@ -1,7 +1,4 @@
 import VoiceDots from './VoiceDots'
-import AnimatedGridPattern from './components/ui/animated-grid-pattern'
-import { MagicCard } from './components/ui/magic-card'
-import { BorderBeam } from './components/ui/border-beam'
 import './App.css'
 
 function App() {
